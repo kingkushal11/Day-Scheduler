@@ -34,4 +34,4 @@ THEN the saved events persist
 
 ## Links
  - https://kingkushal11.github.io/Day-Scheduler/
- - https://github.com/kingkushal11
+ - https://github.com/kingkushal11/Day-Scheduler
